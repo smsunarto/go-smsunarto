@@ -1,3 +1,8 @@
 {
-  "redirects": []
+  "redirects": [
+    {
+      "source": "/resume",
+      "destination": "https://drive.google.com/file/d/1xiJUAbWY1FzEgmk6UwUn1UHleqvUcFnA/view?usp=sharing"
+    }
+  ]
 }
