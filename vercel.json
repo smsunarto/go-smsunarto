@@ -1,6 +1,10 @@
 {
   "redirects": [
     {
+      "source": "/wwama",
+      "destination": "https://photos.app.goo.gl/iQSAJzVXFn4w13nC7"
+    },
+    {
       "source": "/resume",
       "destination": "https://drive.google.com/file/d/1xiJUAbWY1FzEgmk6UwUn1UHleqvUcFnA/view?usp=sharing"
     }
